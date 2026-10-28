@@ -1,4 +1,6 @@
 /*
+The objective of this project is to find the most optimal skills for data engineers to learning
+seperated by taking the salary and demand into account
 Question: What are the most optimal skills for data engineers—balancing both demand and salary?
 - Create a ranking column that combines demand count and median salary to identify the most valuable skills.
 - Focus only on remote Data Engineer positions with specified annual salaries.

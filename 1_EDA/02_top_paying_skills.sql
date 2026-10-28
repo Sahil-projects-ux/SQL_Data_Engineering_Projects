@@ -1,4 +1,6 @@
 /*
+The objective of this project is to find which skills pay the highest for data engineers while
+also finding how frequently are those skills demanded
 Question: What are the highest-paying skills for data engineers?
 - Calculate the median salary for each skill required in data engineer positions
 - Focus on remote positions with specified salaries
@@ -31,9 +33,9 @@ LIMIT 25;
 /*
 Here's a breakdown of the highest-paying skills for Data Engineers:
 
-Key Insights:
-- Rust remains the top-paying skill at $210K median salary, 
- though demand is still relatively limited (232 postings).
+Points to be noted:
+- Rust is the skill with the highest median salary ($210k) but its 
+  demand is currently very low (only 232)
 - Terraform and Golang both have high median salaries at $184K, 
   with strong demand (Terraform: 3,248 postings; Golang: 912 postings).
 - Other notable skills with both high pay and moderate-to-high frequency include:
