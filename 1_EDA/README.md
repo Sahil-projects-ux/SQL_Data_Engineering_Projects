@@ -30,12 +30,19 @@ This project analyzes a **data wharehouse** built using star schema design. The 
 - 🛠️ **Development:** VS Code for SQL editing & Terminal for duckdb CLI  
 - 📦 **Version Control:**  Git/Github for versioned SQL scripts  
 
+## Repository Structure
+1_EDA/  
+├── 01_top_demanded_skills.sql     # Demand analysis query  
+├── 02_top_paying_skills.sql       # Salary analysis query   
+├── 03_optimal_skills.sql        #Combined demand/salary optimization  
+└── README.md                      # You are here
+
 ## Aalysis Overview
 ### Key Insights
 - 🧠 **Core language:** SQL and Python both appear in more than 28000 job posts, making them most demanded skills  
 - ☁️ **Cloud Platforms:** AWS and Azure are critical for modern data engineering roles  
 - 🧱 **Infrastructure & Tools:** Kubernetes, Docker and Terraform are associated with premium salaries  
-- 🧱 **Big data tools:** Apache spark shows strong demand with competitive salary
+- 🧱 **Big data tools:** Apache spark shows strong demand with competitive compensation
 
 ## SQL Skills Demonstrated
 ### Query Design & Optimization
