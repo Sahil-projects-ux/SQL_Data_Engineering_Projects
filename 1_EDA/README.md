@@ -1,4 +1,4 @@
-# Explotarty Data Analysis with SQL: Jon Market Analysis
+# Exploratory Data Analysis with SQL: Jon Market Analysis
 
 ![Alt Text](../Images/project_image_1.png)
 A SQL Project to analyze Data Engineer Jobs using real world Job postings. It shows my abilit to write **Production-level analytical SQL, design efficient queries and turn business questions into real data driven insights**
